@@ -7,7 +7,7 @@
 - あんなん真面目にやる気ねぇよって人はそっ閉じして、どうぞ。
 - 高専プロコンやETロボコン等で仕事を任されているならそっちを優先しましょう。
 
-
+<br/>
 
 ## 1. はじめに
 
@@ -15,16 +15,13 @@
 
 - 以下では対策を行っていくうえで、AtCoderとAOJというサービスを活用します。とりあえず両方アカウント作成しておきましょう。
 
-  
+  <br/>
 
   - [AtCoder](https://atcoder.jp/) （初めての人はログイン後、[Practice](https://atcoder.jp/contests/practice) のA問題を解いて雰囲気をつかんでください）
-
   - [AOJ](http://judge.u-aizu.ac.jp/onlinejudge/) 
-
   - [AOJ-PCK（パソコン甲子園過去問）](http://aoj-pck.vsw.jp/) （ブラウザによってはうまく表示されないぽい？）
-
   - [AOJ/AtCoder-JOI（情報オリンピック過去問）](https://joi.goodbaton.com/) 
 
-    
+  <br/>
 
 - 競プロ、AtCoderに純粋に興味がある人は以下参考
