@@ -95,11 +95,11 @@
 
 <br/>
 
-![g0](img\g0.jpg)
+![g0](img/g0.jpg)
 
 <br/>
 
-![g1](img\g1.jpg)
+![g1](img/g1.jpg)
 
 <br/>
 
