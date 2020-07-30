@@ -5,5 +5,5 @@ Materials for Competitive Programming
 ## CompetitiveProgramming.md
 - 競技プログラミング（パソコン甲子園・情報オリンピック重視）ガイドラインです
 - 更新履歴
-  - ver. 1.00.00 (2020/7/)  
+  - ver. 1.00.00 (2020/7/30)  
     - 最初の投稿です。競プロ強い人いたら査読をお願いします。
